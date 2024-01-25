@@ -22,6 +22,17 @@ anyways thats about it. maybe ill make my own website as a resume or something b
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9fcr371mx5365k0s3hcr8rue0&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+**cool stats about my github:**
+
+trophies:
+
+[![Tristen's trophies](https://github-profile-trophy.vercel.app/?username=tris-ten&theme=darkhub&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+overall stats:
+
+![Tristen's GitHub stats](https://my-github-readme-stats-tris-tens-projects.vercel.app/api?username=tris-ten&count_private=true&show_icons=true&include_all_commits=true&show=reviews,prs_merged&hide=stars&theme=dark&hide_border=true&hide_title=true&hide_rank=true) 
+
+
 ### Languages I know *(from a 1 to 5 star rating)*
 | Language | Expertise |
 | --- | --- |
@@ -31,8 +42,3 @@ anyways thats about it. maybe ill make my own website as a resume or something b
 | HTML | ⭐⭐ |
 | CSS | ⭐ |
 | SQL | ⭐ |
-
-### My GitHub Stats
-![Tristen's GitHub stats](https://my-github-readme-stats-tris-tens-projects.vercel.app/api?username=tris-ten&count_private=true&show_icons=true&include_all_commits=true&show=reviews,prs_merged&hide=stars&theme=dark&hide_border=true&hide_title=true&hide_rank=true) 
-
-[![Tristen's trophies](https://github-profile-trophy.vercel.app/?username=tris-ten&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
