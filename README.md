@@ -41,4 +41,5 @@ overall stats:
 | JavaScript | ⭐⭐ |
 | HTML | ⭐⭐ |
 | CSS | ⭐ |
+| C++ | ⭐ |
 | SQL | ⭐ |
